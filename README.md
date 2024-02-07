@@ -19,4 +19,13 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 
   -  結果の赤の線で引いているところがレスポンスの値で、
      3回リクエストしていますが、全てレスポンスの値が変わっております。
-     
+
+### ②プロフィールの情報取得
+  -  ここでは、下記のコードを入力して、ユーザのプロフィール情報を取得します。
+  -  ここで、扱うURLの　https://api.github.com/usersには、46人のプロフィールの情報が
+　　 JSONにて管理されております。
+  -  私は、この中のidが一番の方のデータを取得します
+
+![スクリーンショット 2024-02-07 161519](https://github.com/mizoguchi-kouichi/RESTAPI-handson/assets/156568693/769ed633-baeb-4627-b347-6c4403baa413)
+
+
