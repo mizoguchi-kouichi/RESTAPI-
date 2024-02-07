@@ -6,3 +6,11 @@
 ↓以下のURL  
 https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 
+***
+# ◎GETリクエスト
+### 事前準備  
+   -   githubのアカウント
+   -   個人アクセストークン
+   -   Terminal　（私は、git bashを使用しました）
+   -   Postmanのダウンロード
+
