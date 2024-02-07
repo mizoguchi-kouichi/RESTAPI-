@@ -8,9 +8,8 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 
 ***
 # ◎GETリクエスト
-### 事前準備  
-   -   githubのアカウント
-   -   個人アクセストークン
-   -   Terminal　（私は、git bashを使用しました）
-   -   Postmanのダウンロード
-
+###  ①ターミナルからGitHubにリクエスト
+  -  ここでは、Terminalから下記のコードをコピーしリクエストします。
+  -  ここでは、レスポンスで返ってくる値は、定期的に変わるものになります。
+     リクエスト結果の写真
+     
