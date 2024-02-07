@@ -13,8 +13,10 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
   -  ここでは、レスポンスで返ってくる値は、定期的に変わるものになります。  
      リクエスト結果の写真
      
-     <img src="https://1drv.ms/i/s!Auv9JfW7EFoQpTyG84kjm497ULKr?e=vbB8hM" align="center" width="100%">
+![①レスポンス結果](https://github.com/mizoguchi-kouichi/RESTAPI-handson/assets/156568693/d1accf0a-556f-4a4f-b046-50eec3c16b03)
 
 
+
+  -  結果の赤の線で引いているところがレスポンスの値で、
+     3回リクエストしていますが、全てレスポンスの値が変わっております。
      
-  
