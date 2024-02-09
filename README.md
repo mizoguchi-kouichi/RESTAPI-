@@ -26,7 +26,7 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 
 ### ②プロフィールの情報取得
   -  ここでは、下記のコードを入力して、ユーザのプロフィール情報を取得します。
-  -  ここで、扱うURLの　https://api.github.com/usersには、46人のプロフィールの情報が
+  -  ここで、扱うURLの　https://api.github.com/usersには、登録している方のプロフィールの情報が
 　　 JSONにて管理されております。
   -  私は、この中のidが1の方のデータを取得します。
   -  データの取得の際は、水色の線のURLを使用します。
