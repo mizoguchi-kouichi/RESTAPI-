@@ -46,3 +46,20 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
    -   リクエスト結果(2)からは、今回取得した人のプロフィール情報が出力されています。  
 リクエスト結果(2)
 ![②のレスポンス結果⑵](https://github.com/mizoguchi-kouichi/RESTAPI-handson/assets/156568693/3779546a-51a2-4dbb-8c1b-7fdf72533757)
+
+### ③自分のアクセストークンを使用し情報を取得する
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
