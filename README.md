@@ -55,7 +55,7 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
    -   ここで使うコードは下記になります。
 ```
 curl -i -u  GitHubの自分の名前：GitHubのアクセストークン https://api.github.com/user
-                                                       ↑半角スペース 
+                                                      ↑半角スペース 
 ```
 
    -   リクエスト結果(1)を見て頂くとHTTPレスポンスステータスコードが「　200　ok 」のため  
