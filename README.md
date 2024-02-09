@@ -9,7 +9,10 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 ***
 # ◎GETリクエスト
 ###  ①ターミナルからGitHubにリクエスト
-  -  ここでは、Terminalから下記のコードをコピーしリクエストします。
+  -  ここでは、Terminalに下記のコードをコピーしリクエストします。
+```
+% curl https://api.github.com/zen
+```
   -  ここでは、レスポンスで返ってくる値は、定期的に変わるものになります。
  
 ###  リクエスト結果の写真
