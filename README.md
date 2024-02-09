@@ -26,8 +26,8 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 
 ### ②プロフィールの情報取得
   -  ここでは、下記のコードを入力して、ユーザのプロフィール情報を取得します。
-  -  ここで、扱うURLの　https://api.github.com/usersには、登録している方のプロフィールの情報が
-　　 JSONにて管理されております。
+  -  ここで、扱うURLの　https://api.github.com/users
+     には、登録している方のプロフィールの情報がJSONにて管理されております。
   -  私は、この中のidが1の方のデータを取得します。
   -  データの取得の際は、水色の線のURLを使用します。
 
@@ -38,8 +38,8 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
    -   リクエスト結果(1)の赤線を引いている箇所が、HTTPレスポンスステータスコードであり、
        「　200　ok 」と出力されていますので、リクエストが成功したことを示します。
    -    水色で記入されている箇所には、Content-Typeとcharset(文字コード)について示しています。
-   -    このリクエスト結果からは、
-   -    Content-Typeが application/json　　charsetがutf-8
+   -    このリクエスト結果からは、  
+        Content-Typeが application/json　　charsetがutf-8  
         ということがわかります。
         
 リクエスト結果(1)  
@@ -56,7 +56,6 @@ https://github.com/raisetech-for-student/rest-api-handson?tab=readme-ov-file
 ```
 curl -i -u  GitHubの自分の名前：GitHubのアクセストークン https://api.github.com/user
                                                        ↑半角スペース 
-
 ```
 
    -   リクエスト結果(1)を見て頂くとHTTPレスポンスステータスコードが「　200　ok 」のため  
